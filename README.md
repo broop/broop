@@ -5,4 +5,6 @@ Here are some of the things I'm working on:
 - ear-training: A long term project for developing tonal and atonal ear training (aka auditory development) exercises of various kinds. Some based on randomness, some on Markov processes, and some utilizing deep learning techniques.
 - little-schemer: the code I wrote while working through "The Little Schemer" book along with many versions of the same functions that I ended up writing. All in one giant Racket source file.
 - crafting-interpreters-python: My implementation of Crafting Interpreters (the first part) in Python
-- zero-hero: My code from the courses at https://karpathy.ai/zero-to-hero.html
+- zero-hero: My code from the Neural Networks: Zero to Hero courses at https://karpathy.ai/zero-to-hero.html
+- tla+ coming soon...
+- raft-python ... tbd
