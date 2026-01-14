@@ -7,6 +7,6 @@ Here are some of the things I'm working on:
 - codecrafter-grep-c: Base funtionality only. Extenions are in the Python and Java versions.
 - codecrafters-grep-zig: Base funtionality only. Extenions are in the Python and Java versions.
 - codecrafters-grep-python: Grep in Python on Codecrafters.
-- codecrafters-greo-java: Grep in Java on Codecrafters
+- codecrafters-greo-java: Grep in Java on Codecrafters - a different approach than the Python version.
 - tla+ coming soon...
 
