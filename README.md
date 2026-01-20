@@ -8,6 +8,4 @@ Here are some of the things I'm working on:
 - codecrafters-grep-zig: Base funtionality only. Extenions are in the Python and Java versions.
 - codecrafters-grep-python: Grep in Python on Codecrafters.
 - codecrafters-grep-java: Grep in Java on Codecrafters - a different approach than the Python version.
-- codecrafters-kafka-java: Toy Kafka which you can produce and consume from.
-- tla+ coming soon...
-
+- codecrafters-kafka-java: Kafka on Codecrafters implementing some functionality including listing topics and partitions, and basic consuming and producing of records.
