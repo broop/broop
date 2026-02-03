@@ -1,6 +1,5 @@
-Welcome!
+Welcome! I'm Paul Brook, a Senior Software Engineer with over 20 years experiencem and here are some of the things I'm working on:
 
-Here are some of the things I'm working on:
 - [1brc](https://github.com/broop/1brc): I'm interested in achieving a sub 10 second result using only "common" techniques and builtin Java apis.
 - [little-schemer](https://github.com/broop/little-schemer): the code I wrote while working through "The Little Schemer" book, along with many versions of the same functions that I ended up writing. Quite verbose.
 - schemish: a Scheme interpreter (in Python) based on all (and only!) the Scheme you need to run the code in The Little Schemer.
