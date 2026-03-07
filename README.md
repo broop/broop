@@ -6,4 +6,3 @@ Welcome! I'm Paul Brook, a Senior Software Engineer with over 20 years experienc
 - [codecrafters-grep-python](https://github.com/broop/codecrafters-grep-python): Grep in Python on Codecrafters. Includes backreferences. Based on Rob Pike's idea, not NFA etc.
 - [codecrafter-grep-c](https://github.com/broop/codecrafters-grep-c): Base funtionality only. Extensions are in the Python version.
 - [codecrafters-grep-zig](https://github.com/broop/codecrafters-grep-zig): Base funtionality only. Extensions are in the Python version.
-- codecrafters-kafka-java: Kafka on Codecrafters implementing some functionality including listing topics and partitions, plus basic consuming and producing of records.
